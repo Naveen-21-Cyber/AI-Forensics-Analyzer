@@ -149,7 +149,7 @@ With the proliferation of generative AI tools (Midjourney, DALL-E, Stable Diffus
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-image-forensics.git
+git clone https://github.com/Naveen-21-Cyber/ai-image-forensics.git
 cd ai-image-forensics
 
 # Create virtual environment
