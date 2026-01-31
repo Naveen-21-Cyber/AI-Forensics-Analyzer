@@ -79,18 +79,6 @@ With the proliferation of generative AI tools (Midjourney, DALL-E, Stable Diffus
 
 ---
 
-## 🎥 Demo
-
-### Analysis Dashboard
-![Dashboard Preview](https://via.placeholder.com/800x450/18181b/a1a1aa?text=Analysis+Dashboard)
-
-### Forensic Report
-![Report Preview](https://via.placeholder.com/800x450/18181b/a1a1aa?text=PDF+Report+Preview)
-
-**Live Demo:** [Coming Soon]
-
----
-
 ## 🏗️ Architecture
 
 ```
